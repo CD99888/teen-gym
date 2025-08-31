@@ -1,6 +1,5 @@
 // app/layout.tsx
 import type { Metadata } from "next";
-import "./globals.css"; // optional, see note below
 
 export const metadata: Metadata = {
   title: "Teen Gym Plans",
